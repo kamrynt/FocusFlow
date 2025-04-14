@@ -162,8 +162,7 @@ Provides user settings, sign-out option, and a view of the productivity streak t
 
 
 ## Wireframes
-![Mobile App Group Project] (https://hackmd.io/_uploads/SJIGxu4Ryl.png)
-
+![image](https://github.com/user-attachments/assets/bc82f949-2905-41f1-a2da-46954a29d5bb)
 
 
 ## Schema 
