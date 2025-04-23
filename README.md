@@ -52,7 +52,8 @@ The application integrates with Firebase for user authentication and data storag
 
         User can create, view, edit, and delete daily tasks or goals to plan the day’s priorities.
 
-* Focus Session Management
+[X]* Focus Session Management
+* https://www.loom.com/share/3c3ec2c3d5f943ca93c1e95a3852d508?sid=2a8f4199-ef54-4c55-9064-161a13d6a7bd
 
         User can start a focus session with a default Pomodoro duration (e.g., 25 minutes) or set a custom timer.
 
