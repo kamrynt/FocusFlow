@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct AppDevFinalProjectApp: App {
+    
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FocusFlowAppView()
         }
     }
 }
+
