@@ -49,8 +49,8 @@ The application integrates with Firebase for user authentication and data storag
 
         User can log in and log out securely to access personalized data.
         
-* Tasks & Goals Management
-
+[X]* Tasks & Goals Management
+https://www.loom.com/share/fde6d129a6494b48b3eca82cef676bb9?sid=4f2661d9-1cfe-46f6-928c-252bb0244f42
         User can create, view, edit, and delete daily tasks or goals to plan the day’s priorities.
 
 [X]* Focus Session Management
@@ -66,29 +66,29 @@ The application integrates with Firebase for user authentication and data storag
 
         User can view a scrollable log of past sessions that includes session dates, durations, photos, and personal notes.
 
-* Mapping Productivity
-
+[X]* Mapping Productivity
+https://www.loom.com/share/8f0fbe3b0f4441b2b257e5ea2431160f?sid=add124de-7a68-41d7-b446-32b69a644e2e
         User can view their productive locations on a map where sessions have occurred, with pins that can be tapped to reveal session details.
 
 **Optional Nice-to-have Stories**
 
 * User can retrieve and view a daily motivational quote via a REST API.
-
+https://www.loom.com/share/8f0fbe3b0f4441b2b257e5ea2431160f?sid=add124de-7a68-41d7-b446-32b69a644e2e
 * User can adjust settings such as dark mode, custom notification or reminder settings, and even set session-related goals or reminders.
 
 * User can see a streak tracker on their profile that motivates daily app engagement.
-
+https://www.loom.com/share/8f0fbe3b0f4441b2b257e5ea2431160f?sid=add124de-7a68-41d7-b446-32b69a644e2e
 * User can persist session and task data across devices for seamless continuity.
 
 ### 2. Screen Archetypes
 
 
-- [ ] Onboarding / Login Screen
+- [ X] Onboarding / Login Screen
 * Required User Feature: 
 
         User can sign in/sign up via Firebase Auth.
 
-- [ ] Home (Today) Screen
+- [ X] Home (Today) Screen
 * Features:
 
         Greeting message (e.g., “Hey [User] 👋, ready to focus?”)
@@ -99,7 +99,7 @@ The application integrates with Firebase for user authentication and data storag
 
         Daily motivational quote display from a REST API
 
-- [ ] Focus Session Screen
+- [X ] Focus Session Screen
 * Features:
 
         Timer UI (default 25 minutes or custom session timer)
@@ -115,14 +115,14 @@ The application integrates with Firebase for user authentication and data storag
 
         Tap-to-expand functionality for more detailed session info
 
-- [ ] Map View Screen
+- [ X] Map View Screen
 * Features:
 
         Interactive map (using MapKit) that pins productive locations
 
         Tappable pins showing session details like photo and notes
 
-- [ ] Profile / Settings Screen
+- [ X] Profile / Settings Screen
 * Features:
 
         View user streaks and total session count
