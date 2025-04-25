@@ -42,12 +42,13 @@ The application integrates with Firebase for user authentication and data storag
 
 **Required Must-have Stories**
 
-* User Authentication
+[X]* User Authentication
+*https://www.loom.com/share/f66710e509a946b8900bc3981db0a4cb?sid=8e57d578-ccef-4eaf-8d25-2ee10a58326a
 
         User can register an account via email/password authentication using Firebase Auth.
 
         User can log in and log out securely to access personalized data.
-
+        
 * Tasks & Goals Management
 
         User can create, view, edit, and delete daily tasks or goals to plan the day’s priorities.
